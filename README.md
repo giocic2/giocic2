@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @giocic2, currently PhD Student in University of Perugia
+- 👋 Hi, I’m @giocic2, currently PhD Student at University of Perugia
 - 👀 I’m interested in electronics, more specifically in radar technologies
 
 <!---
